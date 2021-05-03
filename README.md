@@ -1,6 +1,6 @@
-# curconverter
+# cur_converter
 
-A new Flutter application.
+A new simple Flutter application.
 
 ## Getting Started
 
